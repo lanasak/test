@@ -26,3 +26,4 @@ spec:
           count(ingress.spec.tls) > 0
           ingress.metadata.annotations["kubernetes.io/ingress.allow-http"] == "false"
         }
+        #teeeeest
